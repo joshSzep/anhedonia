@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # Build Anhedonia.epub from the existing manuscript and cover, from any directory.
-# This is an executable shell script despite its requested .md extension.
 # Requires Pandoc.
 set -euo pipefail
 
