@@ -1,5 +1,7 @@
 # Anhedonia
 
+![cover](./cover.png)
+
 A philosophical literary hard sci-fi novel by Joshua Szepietowski.
 
 ## Core premise
